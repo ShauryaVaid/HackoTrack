@@ -1,0 +1,21 @@
+# Environments
+.env
+myenv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Binaries / Temp Files
+ffmpeg-master-latest-win64-gpl/
+ffmpeg.zip
+static/lightning.webm
+static/lightning.mp4
+
+# OS generated files
+.DS_Store
+Thumbs.db
